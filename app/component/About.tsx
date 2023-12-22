@@ -11,7 +11,10 @@ const About = () => {
       </div>
       <div className={styles.aboutText}>{/* Explainer video goes here */}
       <p >{/* About text goes here */}
-      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium non aut id ex atque similique eos, deleniti repellendus quibusdam iure quam, quae necessitatibus optio. Temporibus earum suscipit exercitationem mollitia enim.</p>
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium non aut id ex atque similique eos, deleniti repellendus quibusdam iure quam, quae necessitatibus optio. Temporibus earum suscipit exercitationem mollitia enim.
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium non aut id ex atque similique eos, deleniti repellendus quibusdam iure quam, quae necessitatibus optio. Temporibus earum suscipit exercitationem mollitia enim.
+      
+      </p>
       </div>
       
     </section>
