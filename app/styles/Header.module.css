@@ -1,0 +1,60 @@
+.header {
+  background-color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+.dp {
+  /* profile styles */
+}
+.header {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 380px;
+  background: url("../images/header-background\ \(1\).png") no-repeat center center;
+  background-size: cover;
+  width: 100%;
+  }
+  .header .overlay {
+  position: relative;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 10px;
+  width: 80%;
+  text-align: center;
+  }
+  .header .dp {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
+  border: 5px solid #f9f9f9;
+  }
+  .header h1 {
+  color: #f9f9f9;
+  font-weight: 700;
+  font-size: 28px;
+  margin-bottom: 10px;
+  }
+  .header p {
+  color: #f9f9f9;
+  font-weight: 500;
+  margin-bottom: 15px;
+  }
+  header .social-icons {
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  }
+  header .social-icons i {
+  font-size: 28px;
+  color: #f9f9f9;
+  cursor: pointer;
+  transition: opacity 0.2s;
+  }
+  .header .social-icons i:hover {
+  opacity: 0.7;
+  }
+  
